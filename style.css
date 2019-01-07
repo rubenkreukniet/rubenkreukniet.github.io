@@ -1,6 +1,6 @@
 /* CSS Variables */
 :root {
-  --primary: #ddd;
+  --primary:lightblue;
   --dark: #333;
   --light: #fff;
   --shadow: 0 1px 5px rgba(104, 104, 104, 0.8);
@@ -124,7 +124,6 @@ img {
   display: grid;
   grid-gap: 20px;
   grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
-  background: lightblue;
 }
 
 .box {
