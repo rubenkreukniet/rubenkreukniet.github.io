@@ -105,9 +105,10 @@ header a:hover{
 }
 
 #boxes .box{
-  float:right
+  float:center
   width:30%;
   padding:10px;
+  
 }
 #boxes .aside{
 float: right;
@@ -140,14 +141,6 @@ article#main-col{
   width:65%;
 }
 
-/* Services */
-ul#services li{
-  list-style: none;
-  padding:20px;
-  border: #cccccc solid 1px;
-  margin-bottom:5px;
-  background:#e6e6e6;
-}
 
 footer{
   padding:20px;
@@ -155,6 +148,9 @@ footer{
   color:#ffffff;
   background-color:#35424a;
   text-align: center;
+}
+
+
 }
 
   header{
